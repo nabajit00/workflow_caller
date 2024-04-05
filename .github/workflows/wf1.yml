@@ -15,3 +15,4 @@ jobs:
     uses: nabajit00/workflow_reusuable/.github/workflows/reuse.yml@main
     with:
       who: "WF1"
+    secrets: inherit
